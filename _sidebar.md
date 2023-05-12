@@ -10,4 +10,3 @@
 * **其它**
     * [封禁记录](irony/banned)
     * [赞助支持](irony/sponse)
-
