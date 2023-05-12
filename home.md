@@ -3,12 +3,7 @@
 
 ------
 
-
-<center><b>欢迎加入本项目交流群527244914，及时获取更新维护、封号换机等消息<b></center>
-
-
+## 文档导航：[聊天辅助类](irony/help1)；[实用工具类](irony/help2)；[娱乐游戏类](irony/help3)；[封禁记录](irony/banned)；[赞助支持](irony/sponse)<!-- {docsify-ignore-all} -->
 ------
 
-<center>
-<a href=#/guide "查看文档">查看文档</a>
-</center>
+## 欢迎加入本项目交流群：527244914，及时获取更新维护封号换机等消息！
