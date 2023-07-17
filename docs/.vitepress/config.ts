@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import algolia from './algolia'
 import socialLinks from './sociallinks'
 
 // https://vitepress.dev/reference/site-config
@@ -19,8 +18,8 @@ export default defineConfig({
     },
     returnToTopLabel: '返回顶部',
     outlineTitle: '导航栏',
-    darkModeSwitchLabel: '外观',
-    sidebarMenuLabel: '归档',
+    darkModeSwitchLabel: '夜间模式',
+    sidebarMenuLabel: '目录',
     nav: [
       { text: '主页', link: '/' },
       {
@@ -55,7 +54,22 @@ export default defineConfig({
 
     socialLinks,
 
-    algolia,
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: '6YADQKZIJA',
+        apiKey: '03740b92ca7393ed5e6bb65d28dd70f1',
+        indexName: 'IRONY'
+        locales: {
+          zh: {
+            placeholder: '请输入关键词',
+            translations: {
+              button: {
+                buttonText: '搜索文档',
+                buttonAriaLabel: '搜索文档'
+              },
+            },
+          },
 
   footer: {
       message: `感谢陪伴，一路有你`,
