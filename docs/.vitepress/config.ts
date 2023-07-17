@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import socialLinks from './sociallinks'
+import algolia from './algolia'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -54,25 +55,7 @@ export default defineConfig({
 
     socialLinks,
 
-    search: {
-      provider: 'algolia',
-      options: {
-        appId: '6YADQKZIJA',
-        apiKey: '03740b92ca7393ed5e6bb65d28dd70f1',
-        indexName: 'IRONY'
-        locales: {
-          zh: {
-            placeholder: '请输入关键词',
-            translations: {
-              button: {
-                buttonText: '搜索文档',
-                buttonAriaLabel: '搜索文档'
-              },
-            },
-          },
-        },
-      },
-    },
+    algolia,
 
   footer: {
       message: `感谢陪伴，一路有你`,
