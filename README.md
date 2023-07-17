@@ -16,12 +16,14 @@ IRONY's Docs
 <a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ElainaFanBoy/ElainaFanBoy.github.io?style=for-the-badge&color=3A8891"></a>
 <a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io/blob/main/LICENSE" target="__blank"><img alt="MIT" src="https://img.shields.io/github/license/ElainaFanBoy/IRONY?style=for-the-badge&logo=github&color=609966"></a>
 
+
 # 📓 内容
 
-### 📖 功能列表：IRONY的功能列表。
-### 🚫 封禁记录：IRONY所有账号的封禁记录。
-### 💴 赞助支持：提供赞助渠道。
+📖 功能列表：IRONY的功能列表。
 
+🚫 封禁记录：IRONY所有账号的封禁记录。
+
+💴 赞助支持：提供赞助渠道。
 
 
 > 感谢陪伴，一路有你
