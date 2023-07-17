@@ -70,6 +70,9 @@ export default defineConfig({
               },
             },
           },
+        },
+      },
+    },
 
   footer: {
       message: `感谢陪伴，一路有你`,

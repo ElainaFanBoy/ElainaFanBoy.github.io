@@ -1,6 +1,6 @@
 {
   "index_name": "IRONY",
-  "start_urls": ["https://ElainaFanBoy.github.io"],
+  "start_urls": ["https://ElainaFanBoy.github.io/"],
   "rateLimit": 8,
   "maxDepth": 10,
   "selectors": {
