@@ -55,9 +55,7 @@ export default defineConfig({
 
     socialLinks,
 
-    algolia,
-
-  footer: {
+    footer: {
       message: `感谢陪伴，一路有你`,
       copyright: `版权所有 © 2022-2023`
     },
