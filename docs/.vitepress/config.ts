@@ -4,7 +4,6 @@ import socialLinks from './sociallinks'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: ElainaFanBoy.github.io, 
   title: "IRONY",
   description: "",
   locales: {
