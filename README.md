@@ -1,5 +1,3 @@
-
-
 <p align="center">
 <img  alt="IRONY's Docs" src="https://raw.githubusercontent.com/ElainaFanBoy/ElainaFanBoy.github.io/main/docs/logo.png"/>
 </p>
