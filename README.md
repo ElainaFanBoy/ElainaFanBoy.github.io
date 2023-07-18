@@ -1,5 +1,5 @@
 <p align="center">
-<img  alt="IRONY's Docs" src="https://raw.githubusercontent.com/ElainaFanBoy/ElainaFanBoy.github.io/main/docs/logo.png"/>
+<img  alt="IRONY's Docs" src="https://fastly.jsdelivr.net/gh/ElainaFanBoy/ElainaFanBoy.github.io/docs/logo.png"/>
 </p>
 
 <h1 align="center">
