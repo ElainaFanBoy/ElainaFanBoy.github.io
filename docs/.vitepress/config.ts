@@ -29,7 +29,7 @@ export default defineConfig({
       {
         text: '📝 功能列表',
         items: [
-          { text: '💡 聊天辅助类', link: '/help1' },
+          { text: '😺 聊天辅助类', link: '/help1' },
           { text: '🔨 实用工具类', link: '/help2' },
           { text: '🎮 娱乐游戏类', link: '/help3' },
         ],
@@ -45,7 +45,7 @@ export default defineConfig({
           {
             text: '📝 功能列表',
             items: [
-              { text: '💡 聊天辅助类', link: '/help1' },
+              { text: '😺 聊天辅助类', link: '/help1' },
               { text: '🔨 实用工具类', link: '/help2' },
               { text: '🎮 娱乐游戏类', link: '/help3' },
             ],
@@ -59,8 +59,8 @@ export default defineConfig({
     socialLinks,
 
     footer: {
-      message: `感谢陪伴，一路有你`,
-      copyright: `© 2022-2023`
+      message: `Powered By VitePress`,
+      copyright: `Copyright © 2022-2023`
     }
   }
 })
