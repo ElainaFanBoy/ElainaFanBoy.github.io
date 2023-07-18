@@ -1,4 +1,4 @@
-# IRONY
+# 快速开始
 
 使用本机器人即代表您同意[使用条款](/terms-of-use)与[隐私政策](/privacy-policy)，本文档将指引您如何使用并获取 IRONY。
 
