@@ -14,7 +14,7 @@ export default defineConfig({
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'https://fastly.jsdelivr.net/gh/ElainaFanBoy/ElainaFanBoy.github.io/docs/logo.png',
+    logo: 'https://gitee.com/ElainaFanBoy/ElainaFanBoy.github.io/raw/main/docs/logo.png',
     outline: 'deep',
     docFooter: {
       prev: '上一篇',
