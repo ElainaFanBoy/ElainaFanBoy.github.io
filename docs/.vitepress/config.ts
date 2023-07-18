@@ -29,9 +29,9 @@ export default defineConfig({
       {
         text: '📝 功能列表',
         items: [
-          { text: '😺 聊天辅助类', link: '/help1' },
-          { text: '🔨 实用工具类', link: '/help2' },
-          { text: '🎮 娱乐游戏类', link: '/help3' },
+          { text: '😺 聊天辅助类', link: '/helps#一、聊天辅助类' },
+          { text: '🔨 实用工具类', link: '/helps#二、实用工具类' },
+          { text: '🎮 娱乐游戏类', link: '/helps#三、娱乐游戏类' },
         ],
       },
       { text: '🚫 封禁记录', link: '/banned' },
@@ -40,16 +40,18 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: '快速开始',
+        items: [
+          { text: '🎉 快速开始', link: '/home' },
+          { text: '📝 使用条款', link: '/terms-of-use' },
+          { text: '📝 隐私政策', link: '/privacy-policy' },
+          
+        ],
+      },
+      {
         text: '使用文档',
         items: [
-          {
-            text: '📝 功能列表',
-            items: [
-              { text: '😺 聊天辅助类', link: '/help1' },
-              { text: '🔨 实用工具类', link: '/help2' },
-              { text: '🎮 娱乐游戏类', link: '/help3' },
-            ],
-          },
+          {text: '📝 功能列表', link: '/helps'},
           { text: '🚫 封禁记录', link: '/banned' },
           { text: '💴 赞助支持', link: '/sponsors' }
         ]
@@ -59,7 +61,7 @@ export default defineConfig({
     socialLinks,
 
     footer: {
-      message: `Powered By VitePress`,
+      message: `Edited By Nanako`,
       copyright: `Copyright © 2022-2023`
     }
   }

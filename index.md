@@ -11,9 +11,9 @@ hero:
   actions:
     - theme: brand
       text: 🎉 快速开始
-      link: /help1
+      link: /home
     - theme: alt
-      text: 👨‍💻 关于我们
+      text: 👨‍💻 关于作者
       link: https://github.com/ElainaFanBoy
 
 features:
