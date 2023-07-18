@@ -3,11 +3,12 @@ import socialLinks from './sociallinks'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: 'zh-CN',
   title: "IRONY",
-  description: "",
+  description: "使用文档",
+
   themeConfig: {
-    i18nRouting: false,
-    search: {
+  search: {
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
@@ -57,7 +58,7 @@ export default defineConfig({
 
     footer: {
       message: `感谢陪伴，一路有你`,
-      copyright: `版权所有 © 2022-2023`
+      copyright: `© 2022-2023`
     }
   }
 })
