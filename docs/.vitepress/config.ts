@@ -5,7 +5,8 @@ import socialLinks from './sociallinks'
 export default defineConfig({
   lang: 'zh-CN',
   title: "IRONY",
-  description: "使用文档",
+  titleTemplate: "使用文档",
+  description: "IRONY 使用文档",
 
   themeConfig: {
   search: {
