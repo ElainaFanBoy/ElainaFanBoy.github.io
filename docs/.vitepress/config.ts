@@ -9,6 +9,7 @@ export default defineConfig({
   description: "IRONY 使用文档",
 
   themeConfig: {
+  siteTitle: "IRONY's Docs",
   search: {
       provider: 'local'
     },
