@@ -26,9 +26,9 @@ export default defineConfig({
     nav: [
       { text: '主页', link: '/' },
       {
-        text: '📖 功能列表',
+        text: '📝 功能列表',
         items: [
-          { text: '🤖 聊天辅助类', link: '/help1' },
+          { text: '💡 聊天辅助类', link: '/help1' },
           { text: '🔨 实用工具类', link: '/help2' },
           { text: '🎮 娱乐游戏类', link: '/help3' },
         ],
@@ -42,9 +42,9 @@ export default defineConfig({
         text: '使用文档',
         items: [
           {
-            text: '📖 功能列表',
+            text: '📝 功能列表',
             items: [
-              { text: '🤖 聊天辅助类', link: '/help1' },
+              { text: '💡 聊天辅助类', link: '/help1' },
               { text: '🔨 实用工具类', link: '/help2' },
               { text: '🎮 娱乐游戏类', link: '/help3' },
             ],
