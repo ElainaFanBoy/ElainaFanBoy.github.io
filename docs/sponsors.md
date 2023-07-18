@@ -2,4 +2,4 @@
 
 想回点血，感谢支持
 
-<div><img src="https://gitee.com/ElainaFanBoy/ElainaFanBoy.github.io/raw/main/docs/sponsors.png"></div>
+<div><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230718/sponsors.png"></div>

@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "IRONY"
   image:
-    src: https://gitee.com/ElainaFanBoy/ElainaFanBoy.github.io/raw/main/docs/cover.png
+    src: https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230718/cover.png
   text: ""
   tagline: 基于 Nonebot2 和 go-cqhttp 开发的 QQ 群聊机器人
   actions:
