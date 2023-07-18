@@ -13,7 +13,7 @@ export default defineConfig({
       provider: 'local'
     },
     // https://vitepress.dev/reference/default-theme-config
-    logo: 'https://raw.githubusercontent.com/ElainaFanBoy/ElainaFanBoy.github.io/main/docs/logo.png',
+    logo: 'https://fastly.jsdelivr.net/gh/ElainaFanBoy/ElainaFanBoy.github.io/docs/logo.png',
     outline: 'deep',
     docFooter: {
       prev: '上一篇',
