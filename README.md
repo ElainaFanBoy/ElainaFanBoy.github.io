@@ -16,13 +16,23 @@ IRONY's Docs
 <a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ElainaFanBoy/ElainaFanBoy.github.io?style=for-the-badge&color=3A8891"></a>
 <a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io/blob/main/LICENSE" target="__blank"><img alt="MIT" src="https://img.shields.io/github/license/ElainaFanBoy/IRONY?style=for-the-badge&logo=github&color=609966"></a>
 
-## 📓 内容
+## 主页
 
-📝 功能列表：IRONY的功能列表。
+🚀 [文档主页](https://elainafanboy.github.io/)
 
-🚫 封禁记录：IRONY所有账号的封禁记录。
+## 快速开始
 
-💴 赞助支持：提供赞助渠道。
+🎉 [快速开始](https://elainafanboy.github.io/home.html)
+
+📝 [使用条款](https://elainafanboy.github.io/terms-of-use.html)
+
+📝 [隐私政策](https://elainafanboy.github.io/privacy-policy.html)
 
 
-> 感谢陪伴，一路有你
+## 使用文档
+
+📝 [功能列表](https://elainafanboy.github.io/helps.html)
+
+🚫 [封禁记录](https://elainafanboy.github.io/banned.html)
+
+💴 [赞助支持](https://elainafanboy.github.io/sponsors.html)
