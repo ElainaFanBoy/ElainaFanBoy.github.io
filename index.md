@@ -13,7 +13,7 @@ hero:
       text: 🎉 快速开始
       link: /home
     - theme: alt
-      text: 👨‍💻 关于作者
+      text: ✨ 关于作者
       link: https://github.com/ElainaFanBoy
 
 features:
