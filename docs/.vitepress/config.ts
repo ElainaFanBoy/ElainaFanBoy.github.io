@@ -62,7 +62,7 @@ export default defineConfig({
 
     footer: {
       message: `Edited By Nanako`,
-      copyright: `Copyright © 2022-2023`
+      copyright: `Copyright © 2022`
     }
   }
 })
