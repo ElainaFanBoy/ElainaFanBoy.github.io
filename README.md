@@ -7,16 +7,17 @@ IRONY's Docs
 </h1>
 
 <p align="center">
- 📖 IRONY的使用文档
+ 📖 IRONY的使用文档 📖
 </p>
+
+<p align="center">
+<a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io/blob/main/LICENSE" target="__blank"><img alt="MIT" src="https://img.shields.io/github/license/ElainaFanBoy/IRONY?style=for-the-badge&logo=github&color=609966"></a>
+<a href="https://www.codefactor.io/repository/github/elainafanboy/elainafanboy.github.io"><img src="https://img.shields.io/badge/CodeFactor-A+-00a393?style=for-the-badge&logo=codefactor&color=00B16A"></a>
+<a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io"><img src="https://img.shields.io/github/repo-size/ElainaFanBoy/ElainaFanBoy.github.io?style=for-the-badge&logo=github&color=609966)"></a>
 
 <p align="center">
 <a href="http://wpa.qq.com/msgrd?v=3&uin=712111161&site=qq&menu=yes"><img src="https://img.shields.io/badge/Nanako-712111161-red?style=for-the-badge&logo=tencentqq&color=FFADBC"></a>
 <a href="https://qm.qq.com/q/dSUYVPcChq"><img src="https://img.shields.io/badge/重生之祭弃人打赢复活赛-973481508-red?style=for-the-badge&logo=tencentqq&color=3A8891"></a>
-<a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io" target="__blank"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ElainaFanBoy/ElainaFanBoy.github.io?style=for-the-badge&color=EA5252"></a>
-<a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io"><img alt="GitHub forks" src="https://img.shields.io/github/forks/ElainaFanBoy/ElainaFanBoy.github.io?style=for-the-badge&color=3A8891"></a>
-<a href="https://github.com/ElainaFanBoy/ElainaFanBoy.github.io/blob/main/LICENSE" target="__blank"><img alt="MIT" src="https://img.shields.io/github/license/ElainaFanBoy/IRONY?style=for-the-badge&logo=github&color=609966"></a>
-<a href="https://www.codefactor.io/repository/github/elainafanboy/elainafanboy.github.io"><img src="https://img.shields.io/badge/CodeFactor-A+-00a393?style=for-the-badge&logo=codefactor&color=00B16A" /></a>
 
 ## 主页
 
