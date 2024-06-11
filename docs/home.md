@@ -12,7 +12,7 @@
 
 ### 规则
 
-IRONY 暂定为邀请制，您可通过联系作者询问相关事宜；若有疑问可通过交流群在线反馈：
+IRONY 暂定为邀请制，您可通过联系作者询问相关事宜；若有任何疑问可点击下方通过交流群在线反馈：
 
 [![QQ](https://img.shields.io/badge/Nanako-712111161-red?style=for-the-badge&logo=tencentqq&color=FFADBC)](http://wpa.qq.com/msgrd?v=3&uin=712111161&site=qq&menu=yes)
 
