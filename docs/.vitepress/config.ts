@@ -53,7 +53,7 @@ export default defineConfig({
         items: [
           {text: '📝 功能列表', link: '/helps'},
           { text: '🚫 封禁记录', link: '/banned' },
-          { text: '💴 赞助支持', link: '/sponsors' }
+          { text: '💴 赞助支持', link: '/donates' }
         ]
       }
     ],
