@@ -38,4 +38,4 @@ IRONY's Docs
 
 🚫 [封禁记录](https://elainafanboy.github.io/banned.html)
 
-💴 [赞助支持](https://elainafanboy.github.io/sponsors.html)
+💴 [赞助支持](https://elainafanboy.github.io/donates.html)

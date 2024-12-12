@@ -7,7 +7,7 @@ hero:
   image:
     src: https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230718/cover.png
   text: ""
-  tagline: 基于 Nonebot2 和 Lagrange.Core 开发的 QQ 群聊机器人
+  tagline: 基于 Nonebot2 和 NapCat.Framework 开发的 QQ 群聊机器人
   actions:
     - theme: brand
       text: 🎉 快速开始
@@ -29,7 +29,7 @@ features:
     linkText: 📝 官方文档
   - icon: 🎈
     title: 轻量化
-    details: 采用 Lagrange.Core 无头客户端。轻量，原生，高并发，低占用，跨平台。
-    link: https://lagrangedev.github.io/Lagrange.Doc/
+    details: 现代化的基于 NTQQ 的 Bot 协议端实现
+    link: https://napcat.napneko.icu/
     linkText: 📝 官方文档
 ---
