@@ -1,7 +1,7 @@
 const socialLinks = [
   {
     icon: 'github',
-    link: 'https://github.com/ElainaFanBoy/IRONY',
+    link: 'https://github.com/ElainaFanBoy',
   },
   {
     icon: {
@@ -14,3 +14,4 @@ const socialLinks = [
 ]
 
 export default socialLinks
+
