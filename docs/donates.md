@@ -4,4 +4,4 @@
 
 在此衷心感谢所有帮助过IRONY和Nanako的朋友们，感谢大家的支持、鼓励与陪伴‌！
 
-<div><img src="https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230718/sponsors.png"></div>
+<div><img src="https://gcore.jsdelivr.net/gh/ElainaFanBoy/ElainaFanBoy.github.io/docs/donates.png"></div>
