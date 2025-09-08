@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "IRONY"
   image:
-    src: https://jsd.cdn.zzko.cn/gh/ElainaFanBoy/picx-images-hosting@master/20230718/cover.png
+    src: https://gcore.jsdelivr.net/gh/ElainaFanBoy/ElainaFanBoy.github.io/docs/cover.png
   text: ""
   tagline: 基于 Nonebot2 和 NapCat.Framework 开发的 QQ 群聊机器人
   actions:
@@ -29,7 +29,7 @@ features:
     linkText: 📝 官方文档
   - icon: 🎈
     title: 轻量化
-    details: 现代化的基于 NTQQ 的 Bot 协议端实现
-    link: https://napcat.napneko.icu/
+    details: 一个基于纯 C# 的 NTQQ 协议实现，源自 Konata.Core。
+    link: https://github.com/LagrangeDev/Lagrange.Core
     linkText: 📝 官方文档
 ---
