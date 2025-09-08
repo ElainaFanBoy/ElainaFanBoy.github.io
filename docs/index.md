@@ -31,5 +31,5 @@ features:
     title: 轻量化
     details: 一个基于纯 C# 的 NTQQ 协议实现，源自 Konata.Core。
     link: https://github.com/LagrangeDev/Lagrange.Core
-    linkText: 📝 官方文档
+    linkText: 📝 相关仓库
 ---
